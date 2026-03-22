@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:4000/api";
+const API_URL = "https://fulls-stack-ecommerce-mern-server-s.vercel.app/api";
 
 const getToken = () => localStorage.getItem("superAdminToken");
 
