@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "https://fulls-stack-ecommerce-mern-server-s.vercel.app/api";
+const API_URL = "https://fullstack-ecommerce-server-nine.vercel.app/api";
 
 const getToken = () => localStorage.getItem("superAdminToken");
 
